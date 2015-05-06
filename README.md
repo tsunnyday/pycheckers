@@ -1,0 +1,2 @@
+# pycheckers
+Checkers clone
